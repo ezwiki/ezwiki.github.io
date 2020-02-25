@@ -64,3 +64,7 @@ header * {
 header li {
   font-size: 12px;
 }
+
+header a {
+  color: white;
+}
