@@ -32,3 +32,18 @@ a:hover {
   text-decoration: underline;
 }
 
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 80;
+}
+
+header img {
+  height: 80px;
+}
+
+body {
+  height: 125vh;
+}
