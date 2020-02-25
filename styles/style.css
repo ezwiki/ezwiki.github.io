@@ -46,6 +46,8 @@ header img {
   height: 60px;
   display: block;
   aligh: left;
+  margin-top: 10px;
+  margin-right: 10px;
 }
 
 body {
