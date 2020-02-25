@@ -1,0 +1,8 @@
+<!--general information-->
+Theme color major: #0CED39
+Theme color minor: #FFFFFF
+Title font CSS:    font-family: 'Oswald', ;    
+Text font Css:     font-family: 'Roboto Slab', ;
+Font link:         <link href="https://fonts.googleapis.com/css?family=Oswald|Roboto+Slab&display=swap" rel="stylesheet"> 
+<!--layout-->
+index.html
