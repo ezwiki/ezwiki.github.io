@@ -38,6 +38,7 @@ header {
   left: 0;
   right: 0;
   height: 80;
+  display: flex;
 }
 
 header img {
@@ -51,4 +52,8 @@ body {
   height: 125vh;
   margin-top: 80px;
   padding: 30px
+}
+
+header * {
+  display: inline;
 }
