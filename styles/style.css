@@ -25,6 +25,7 @@ p, li {
 a {
   color: #0099ff;
   text-decoration: none;
+  padding: 20px 0;
 }
 
 a:hover {
