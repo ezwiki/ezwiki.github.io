@@ -41,11 +41,13 @@ header {
 }
 
 header img {
-  height: 80px;
+  height: 60px;
   display: block;
   aligh="left";
 }
 
 body {
   height: 125vh;
+  margin-top: 80px;
+  padding: 30px
 }
