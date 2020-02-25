@@ -41,8 +41,6 @@ header {
   display: flex;
   align-items: center;
   background-color: black;
-  font-size: 10px;
-  text-color: white;
 }
 
 header img {
@@ -61,4 +59,9 @@ body {
 
 header * {
   display: inline;
+}
+
+header li {
+  font-size: 10px;
+  text-color: white;
 }
