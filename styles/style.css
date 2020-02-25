@@ -24,5 +24,10 @@ p, li {
 
 a {
   color: #0099ff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
